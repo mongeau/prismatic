@@ -733,7 +733,7 @@ In the rear of the skiff, Yukimoto sat cross-legged, eyes closed, lips moving in
 
 Elara felt the seed pod pulse against her ribs. A steady rhythm growing more insistent as they neared the containment dock. Not communicating, exactly, but responding. Recognizing.
 
-The skiff docked with a soft pneumatic hiss. Around them, the Archive containment facility loomed. Sterile. Clinical to the point of aesthetic emptiness. The air smelled aggressively neutral, scrubbed clean of any particle that might contaminate the experiments housed within.
+The skiff docked with a soft pneumatic hiss. Around them, the Archive containment facility loomed. Sterile. Clinical to the point of aesthetic emptiness. The air smelled aggressively neutral, scrubbed clean of any particle that might contaminate the experiments housed within. Someone had posted a maintenance schedule on the corridor wall. Next inspection: two days from now. The handwriting was neat and bored. This was a workplace. People clocked in here. They brought lunches and complained about the ventilation and went home to their families, and on the other side of the containment bay door sat a ship that could crack reality open like an egg.
 
 "Temporal mark," Nyara announced. "Initiating resonance disruption algorithm now."
 
@@ -749,7 +749,7 @@ Yukimoto trailed behind, occasionally tracing patterns in the air with his finge
 
 "We're close," Yukimoto clarified. "The Nexus is influencing local reality already."
 
-Elara said nothing, focused entirely on each step bringing her closer to the only hope she had left. A way to find Mira. The seed pod pulsed against her, warm and insistent.
+Elara said nothing. Her elbow pressed tight against her side, pinning the seed pod between arm and rib. She'd been carrying it this way so long the posture had become permanent. Even in sleep, Mez had told her once. Even in sleep, your arm stays like that.
 
 "We all want something different from this ship," Mez observed quietly. "But we all want something that doesn't exist here." Their eyes met briefly. A moment of understanding without trust. They knew each other's obsessions now, if not their true motives.
 
@@ -805,7 +805,7 @@ They entered cautiously. The interior was utilitarian and strange. Corridors tha
 
 The ship wasn't just sensing them. It was evaluating them.
 
-And it had preferences. Elara noticed it first. The surfaces near her stayed warm. Near Cassius, they couldn't decide. Warm, then cold, then warm again, as if the ship couldn't read what it was touching. His hand hovered over a navigation panel and the panel dimmed. He pulled back. His jaw tightened. Cassius Reed, who could charm his way into any room on Aethoria, had walked into the one room that didn't care about charm.
+And it had preferences. Elara noticed it first. The surfaces near her stayed warm. Near Cassius, they couldn't decide. Warm, then cold, then warm again, as if the ship couldn't read what it was touching. His hand hovered over a navigation panel and the panel dimmed. He pulled back. Tried again. Dimmed again. He wiped the panel with his sleeve, the way you'd clean a screen that wouldn't register your finger. The panel didn't care. Cassius Reed, who could charm his way into any room on Aethoria, had walked into the one room that didn't care about charm.
 
 Yukimoto moved to the navigation chamber, where conventional controls had been augmented with interfaces that seemed to exist partially in higher dimensions.
 
@@ -817,39 +817,47 @@ As if in response, every display in the navigation chamber simultaneously activa
 
 STATE YOUR INTENTION.
 
-The five of them exchanged glances. A moment of truth none had fully prepared for.
+The five of them exchanged glances. Nobody moved.
 
 "It's asking what we want," Nyara said.
 
 "Not what," Yukimoto corrected. "Why."
 
+The silence stretched. The displays waited. The ship waited. The air in the chamber had changed. Heavier. Expectant. Like the room before a verdict.
+
 Elara stepped forward. The seed pod was burning now, vibrating against her ribs so hard she had to press her hand flat against her sternum to steady it. She didn't think about phrasing. Didn't reach for the specialist's vocabulary.
 
 "To find my daughter," she said.
 
-For a moment, nothing happened. Then, distant and distorted, she heard Mira's laugh. Not a memory. The same laugh, but older. Changed by years that had never happened. It faded before she could call out, and her hand was already reaching toward nothing.
+For a moment, nothing happened. Then, distant and distorted, she heard Mira's laugh. Not a memory. The same laugh, but older. Changed by years that had never happened. It faded before she could call out, and her hand was already reaching toward nothing. One step forward, then another, following a sound that was already gone.
 
-Cassius moved beside her. "To be someone I might have become," he said after a moment's hesitation.
+Mez caught her arm. Not gently. A grab, hard enough to stop her momentum, and held on until Elara's eyes focused again. Neither of them said anything. Mez let go.
 
-In the polished surface of a nearby panel, his reflection hesitated a fraction of a second before mirroring his movement. An almost imperceptible desynchronization, gone immediately.
+The others had watched this happen. Watched a woman hear her dead child laughing from inside a wall and try to walk through it. The intention sequence was supposed to be a test. It had just become something else.
+
+Cassius was next, but he didn't step forward. He stayed where he was, feet planted, as if moving would cost him something. "To be someone I might have become," he said. His voice was steady. His hands were not.
+
+In the polished surface of a nearby panel, his reflection hesitated a fraction of a second before mirroring his movement. An almost imperceptible desynchronization, gone immediately. Cassius saw it. He looked away first.
 
 Nyara stepped forward. "To prove perfection exists," she said, her voice precise and analytical even in naked yearning.
 
-One of the mathematical displays beside her shifted. Equations rearranging themselves, solving without input, before returning to standard configuration.
+One of the mathematical displays beside her shifted. Equations rearranging themselves, solving without input, before returning to standard configuration. Nyara stared at the solution for the half-second it existed. Her breath caught. Then it was gone, and her face closed like a door.
 
-Mez, after a long moment: "To see if the lie my partner believed was true."
+Mez didn't move for a long time. They were still looking at the place on Elara's arm where they'd grabbed her. Then they looked at the ship's displays.
 
-In the curved metal of the corridor beyond, Mez glimpsed themselves. But this version turned away, intact, alive, unreachable. Then the image vanished.
+"To see if the lie my partner believed was true," they said. Quieter than the others.
+
+In the curved metal of the corridor beyond, Mez glimpsed themselves. But this version turned away, intact, alive, unreachable. Then the image vanished. Mez's fingers tapped once against their thigh. The rhythm of someone resetting.
 
 Finally, Yukimoto: "To map meaning."
 
-Before him, a complex equation manifested briefly in the air. One that, by his expression, only he could have written. But marked clearly as incomplete.
+Before him, a complex equation manifested briefly in the air. One that, by his expression, only he could have written. But marked clearly as incomplete. He smiled at it. The smile hurt to look at.
 
-The ship processed their intentions. Displays flickering. Systems humming at changing frequencies. Beneath their feet, the deck plates began to vibrate at five distinct rhythms. Elara realized, with a chill that had nothing to do with temperature, that the ship was matching their heartbeats. All five. Simultaneously.
+The ship processed their intentions. Displays flickering. Systems humming at changing frequencies. Beneath their feet, the deck plates began to vibrate at five distinct rhythms. Elara realized, with a chill that had nothing to do with temperature, that the ship was matching their heartbeats. All five. Simultaneously. And a sixth rhythm underneath, slower than any of theirs. The ship's own.
 
 Then, without warning, the entry point behind them sealed itself, becoming seamless hull once more.
 
-"What's happening?" Cassius demanded. He reached for the nearest interface. It dimmed at his touch. He pulled his hand back as if burned.
+"What's happening?" Cassius demanded. He reached for the nearest interface. It dimmed at his touch. He pulled his hand back. Put it in his pocket. Took it out again.
 
 "It's accepting us," Yukimoto said. "Or at least, accepting our presence."
 
@@ -859,7 +867,7 @@ Mez moved toward the environmental controls. "Living quarters, nutrition systems
 
 Cassius frowned. "The containment bay doors are still sealed. We need to override them manually before—"
 
-Alarms. Blaring throughout the facility.
+Alarms. Blaring throughout the facility. The maintenance schedule on the corridor wall would need updating. Next inspection: never.
 
 "Security breach detected," an emotionless Archive sentinel construct announced. "Containment protocols activated. Lockdown initiating in thirty seconds."
 
@@ -871,9 +879,9 @@ Yukimoto moved to the primary navigation interface. "We need to initialize launc
 
 "In theory," Yukimoto replied, not entirely convincingly.
 
-"We need to override the external bay doors," Cassius said, already moving to the engineering section. He reached for the communications interface. The panel brightened for Yukimoto. For Nyara. For Cassius, it gave nothing. His fingers pressed keys that didn't respond. Screens that wouldn't wake.
+"We need to override the external bay doors," Cassius said, already moving to the engineering section. He reached for the communications interface. The panel brightened for Yukimoto. For Nyara. For Cassius, nothing. His fingers pressed keys that didn't respond. Screens that wouldn't wake.
 
-"Something's blocking me," he reported. The careful modulation in his voice was fraying at the edges. "The ship won't let me—" He caught himself. "The Archives have locked down external access."
+"Something's blocking me," he reported. The careful modulation in his voice was fraying. "The ship won't—" He stopped. Started again, quieter. "The Archives have locked down external access."
 
 "Nyara, could your resonance disruption algorithm work on the bay doors?"
 
@@ -901,7 +909,7 @@ Outside, the containment bay doors began to open. The ship had done it itself. N
 
 Mez frowned. "I didn't think it could. Or, at least not care enough to intervene."
 
-"And yet." Cassius gestured to the opening bay doors. He was smiling, but it wasn't the charmer's smile. It was the smile of a man who had just been made irrelevant and was deciding how to feel about it.
+"And yet." Cassius gestured to the opening bay doors. He was smiling, but it wasn't the charmer's smile. It was the smile of a man watching something do effortlessly what he had failed to do at all.
 
 A whisper moved across the hull. Not heard, not spoken, but felt in the subtle vibration of the deck plates beneath them:
 
@@ -957,7 +965,7 @@ Yukimoto had it worst. His synesthetic perception, the gift that let him see mat
 
 Through the viewports, the universe outside had come apart. Not into darkness. Not into light. Into something the human eye was never built to process. The containment facility was already gone. The security forces were gone. Aethoria was gone. There was only the current.
 
-Elara tasted copper. Then something older that had no name. Her nose was bleeding. She could feel it running warm down her upper lip. The seed pod against her ribs was no longer pulsing in rhythm with anything. It was shrieking. A vibration so intense it felt like it would crack her sternum open.
+Elara tasted copper. Then something older that had no name. Her nose was bleeding. She could feel it running warm down her upper lip. The seed pod against her ribs was no longer pulsing in rhythm with anything. It was shrieking. A vibration so intense it felt like it would crack her sternum open. Her arm pressed tighter against her side. Even now. Even here. The posture that had become permanent.
 
 "Yukimoto," she said, fighting to keep her voice level. "Where are we?"
 
@@ -979,7 +987,7 @@ Nyara was wiping her eyes with the back of her hand, blinking rapidly, her jaw s
 
 A subtle harmonic resonance pulsed through the ship. Almost like language. Patterns within patterns, meaning hovering just beyond comprehension.
 
-Cassius straightened slowly, wiping his mouth with the back of his hand. His neural interface still glowed faintly under the skin, running hotter than it should. He looked at the navigation panel. It still wouldn't respond to his touch. He put his hands in his pockets.
+Cassius straightened slowly, wiping his mouth with the back of his hand. His neural interface still glowed faintly under the skin, running hotter than it should. He looked at the navigation panel. It still wouldn't respond to his touch. He put his hands in his pockets. Left them there.
 
 "What do we do now?" he asked. His voice was stripped of performance. Flat. Honest. The most frightening version of Cassius any of them had heard.
 
