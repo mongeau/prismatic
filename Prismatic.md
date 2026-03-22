@@ -2,58 +2,137 @@
 
 ## Chapter One: "The Seed"
 
-The quarantine pod's membrane was supposed to be sterile—engineered to be forgotten by the senses. Elara could smell it anyway: a faint ozone-copper that would forever mean dying child. Inside, Mira floated in suspension gel, her nine-year-old body betraying itself, the disease turning her bones to wet chalk.
-"You're doing it again," Mira murmured.
-"Doing what, starlight?"
-"That thing with your face. When you're trying not to look scared." Mira's fingers trembled against the membrane between them. "I'm the one who's supposed to be scared."
-Elara tried to smile. Failed. Tried again. "I'm not scared."
-"Liar," Mira whispered, the ghost of her old self flickering through. "Big fat Archive liar."
-The unexpected jab made Elara laugh—a broken sound she immediately tried to swallow. Mira caught it though, her eyes brightening.
-"Made you laugh," she said. A victory.
-"The technicians will be here soon," Elara said, avoiding the word extraction. Avoiding the finality of what would happen in this room. "Did you decide which memories you want prioritized?"
-Mira rolled her eyes, an expression so normal it hurt. "They're going to take everything anyway. That's what you all do."
-"We preserve," Elara corrected automatically.
-"You collect," Mira countered. "Like bugs in jars."
-The monitoring equipment beeped a warning—blood pressure rising beyond acceptable parameters for pre-extraction. Elara should calm her. Should redirect. Should maintain optimal conditions.
-Instead she whispered, "When did you get so smart?"
-"While you were working," Mira said without accusation. It cut deeper than blame would have.
-The medication entered Mira's system with mechanical precision, the first wave of sedatives that would smooth the path to extraction. Her small face slackened momentarily, then refocused with stubborn determination.
-"I need to show you something," she said, voice already thickening. "Before they take it."
-She reached under her pillow, movements uncoordinated now, and withdrew something that caught the light oddly—neither reflecting nor absorbing it. A Memoria seed pod. Deep purple-black, its surface matte but somehow bottomless.
-"Field trip," Mira explained, the words slurring slightly. "To the Arboretum. Before. When I could still run."
-Elara recognized it immediately—a forbidden object, strictly prohibited from removal from the gardens. Her professional obligation was to report it, confiscate it. Return it.
-"The guide said—" Mira paused, fighting the medication's weight on her tongue. "Said they remember everything. Not like machines. Not like Archives. They remember the feeling too."
-She pressed the seed against the transfer slot—a portal designed for medical samples and approved personal effects. It slid through with a soft hiss of sterilization protocols.
-"I hid it in my sock," Mira added with unexpected clarity, a conspiratorial smile briefly illuminating her face. "The pod tickled my ankle the whole way home. I didn't even scratch it once."
-The pride in her voice—over such a small act of defiance, such a mundane discomfort endured—broke something in Elara that would never heal properly.
-"You sneaky little thief," she said, her voice thick with love.
-Mira's smile widened, her eyes already losing focus as the sedatives took deeper hold. "Better than being an Archive," she mumbled, the words slurring. "They're gonna take all my memories. But they can't have this one. This one's just for you."
-The quarantine pod hummed, adjusting its parameters as Mira's vital signs changed. Her body already surrendering to the chemical cascade that would make extraction possible, would preserve the neural patterns that had been Mira while erasing the child herself.
-"Will they know it was mine?" Mira asked suddenly, eyes fixing on the seed now clutched in Elara's palm. "Will it know?"
-"Yes," Elara promised, not understanding the question but answering it anyway. "It will always know it was yours."
-"Good," Mira said. Then, with unexpected sharpness: "Don't let them have it. They'll just study it. It'll die in a lab."
-"I won't," Elara said. "I promise."
-Mira nodded, satisfied. Her eyes drifted, focusing on something beyond the room. The sedatives were taking full effect now, neural pathways already being mapped for the coming procedure.
-"I think it'll miss me," she murmured, so softly Elara almost missed it. Not tearful. Not afraid. Just a simple observation, as if she were remarking on weather.
-Before Elara could respond, the door whispered open behind her. The technicians arriving—right on schedule, precise in their clinical mercy.
-"Standard protocols?" the lead extractionist asked, not meeting her eyes.
-Elara nodded, slipping the seed into her pocket where it sat—heavy, alien, stolen. A small contraband weight that had mattered to Mira enough to hide in a sock. Enough to endure a ticklish ankle without scratching.
-"I'll wait outside," she said, though protocol permitted her to stay.
-"We'll notify you when it's complete," the tech said, equipment already humming to life.
-Elara backed toward the door, forcing herself to look at Mira's face one last time. Eyes closed now. Features smooth. A blue-tinged hand that had once reached for hers, once colored pictures of impossible animals, once stolen a forbidden seed, resting motionless in suspension gel.
-In the sterile hallway, she pressed her back against the closed door, the seed pod a cold weight in her pocket. Something fractured inside her chest—not metaphorically, but with such physical certainty that she placed her palm flat against her sternum, expecting to find blood seeping through the Archive uniform.
-Nothing there. Just the impossible physics of grief—mass without matter, gravity without substance, a black hole compressed behind her ribs that consumed everything and gave nothing back.
-The hallway lights continued their steady, indifferent hum. A monitoring drone drifted past, scanning her briefly before cataloging her as non-priority. The Archives continued functioning with mechanical precision while inside her, systems were shutting down. Breathing became mathematical—a problem requiring conscious calculation. Inhale. Count. Exhale. Repeat or die.
-Her fingers found the seed pod in her pocket, clutching it with such force that her nails left crescents in her palm. The pain was distant, belonging to someone else. Everything belonged to someone else now. The competent specialist who had performed thousands of extractions. The mother who had once known joy. The woman who had believed in preservation, in continuity, in meaning.
-All that remained was this—trembling hands, lungs forgetting their purpose, the taste of copper flooding her mouth where she'd bitten through the inside of her cheek without noticing.
-She tried to recall Mira's laugh—the specific cadence, the way it started deep and rose into something bright—and found instead a terrifying blankness. Not even three minutes since leaving her daughter, and already the precise sound was slipping away, replaced by a generic approximation of child's laughter. Not Mira's. Just a template, a placeholder.
-The seed pod pulsed once against her fingers—a dense, concentrated weight pressing into her palm. Just an object that had mattered to Mira. A stolen treasure that had tickled her ankle and sparked that final, fleeting flash of pride. It was nothing. It was everything. It was the only thing Elara had managed to save from the clinical machinery of preservation that would catalog Mira's memories while erasing Mira herself.
-On the other side of the door, they were taking her daughter apart, memory by memory. Precision instruments mapping neural pathways while the child who had created them faded into archive data. Perfectly preserved. Perfectly lost.
-Elara pushed herself away from the door, her movements mechanical. She would walk out of the medical center. Would return to her quarters. Would continue existing in a world where Mira did not. The mechanics were simple. The reality was impossible.
-She moved forward, hollow and shattered, a walking excavation. Behind her, she left nothing visible—no tears on the polished floor, no screams echoing down the corridor, no evidence of the cataclysm that had just occurred.
-Just a mother, walking away from what remained of her child, carrying a stolen seed and the burden of a universe that had collapsed while no one noticed. The scan at the exit blinked green. She didn't look back.
+The quarantine pod's membrane was supposed to be sterile, engineered to be forgotten by the senses. Elara could smell it anyway: a faint ozone-copper that would forever mean dying child.
 
-## Chapter Two: "The Harvester"
+Inside, behind the transparent barrier, Mira lay propped against her pillow in the quarantine bed. Nine years old. Her body betraying itself, the disease turning her bones to wet chalk. The monitoring equipment traced its quiet verdict across the displays: heart rate, neural density, bone calcium. Each number a little lower than the last, and the machines not polite enough to round up.
+
+"You're doing it again," Mira murmured.
+
+"Doing what, starlight?"
+
+"That thing with your face. When you're trying not to look scared." Mira's fingers trembled against the membrane between them. The barrier was warm on Elara's side. Cold on Mira's. That was the design. Keep the visitor comfortable. "I'm the one who's supposed to be scared."
+
+Elara tried to smile. Failed. Tried again. "I'm not scared."
+
+"Liar," Mira whispered, the ghost of her old self flickering through. "Big fat Archive liar."
+
+The unexpected jab made Elara laugh, a broken sound she immediately tried to swallow. Mira caught it though, her eyes brightening with something the monitors couldn't measure and the extraction wouldn't preserve.
+
+"Made you laugh," she said. A victory.
+
+Elara pressed her palm flat against the membrane. Mira's fingers found the same spot from the other side. They couldn't feel each other. That was also the design.
+
+"The technicians will be here soon," Elara said, avoiding the word extraction. Avoiding the finality of what would happen in this room. "Did you decide which memories you want prioritized?"
+
+Mira rolled her eyes, an expression so normal it hurt. "They're going to take everything anyway. That's what you all do."
+
+"We preserve," Elara corrected automatically.
+
+"You collect," Mira countered. "Like bugs in jars."
+
+The monitoring equipment beeped a warning. Blood pressure rising beyond acceptable parameters for pre-extraction. Elara should calm her. Should redirect. Should maintain optimal conditions.
+
+Instead she whispered, "When did you get so smart?"
+
+"While you were working," Mira said without accusation. It cut deeper than blame would have.
+
+The medication entered Mira's system with mechanical precision, the first wave of sedatives that would smooth the path to extraction. Her small face slackened momentarily, then refocused with stubborn determination.
+
+"I need to show you something," she said, voice already thickening. "Before they take it."
+
+She reached under her pillow, movements uncoordinated now, and withdrew something that caught the light oddly. Neither reflecting nor absorbing it. A Memoria seed pod. Deep purple-black, its surface matte but somehow bottomless.
+
+"Field trip," Mira explained, the words slurring slightly. "To the Arboretum. Before. When I could still run."
+
+She paused, fighting the medication's weight on her tongue.
+
+"The guide said they remember everything. Not like machines. Not like Archives. They remember the feeling too."
+
+She pressed the seed against the transfer slot built into the membrane, a small portal designed for medical samples and approved personal effects. It slid through with a soft hiss of sterilization protocols and dropped into Elara's waiting palm.
+
+It was warm. Warmer than it should have been, as if Mira's hand had been holding it for hours. As if she'd been waiting to give it away for a long time and had kept it close until the right moment.
+
+Her professional obligation was clear. Report it. Confiscate it. Return it to the Arboretum under standard biological containment protocol. Seventeen years at the Archives. Eight thousand, four hundred and twelve successful extractions. She had never once violated procedure.
+
+Her hand closed around the pod and her arm drew it against her stomach.
+
+The professional obligation was still there, still waiting, perfectly intact in the part of her brain that had built a career on following it. Her hand didn't care. Some reflex older than training, older than the Archives, older than language, had made the decision while the rest of her was still reciting protocol. Her fingers pressed into the pod's surface hard enough to leave marks, and the part of her that knew this was a career-ending violation went very quiet.
+
+"I hid it in my sock," Mira added with unexpected clarity, a conspiratorial smile briefly illuminating her face. "The pod tickled my ankle the whole way home. I didn't even scratch it once."
+
+The pride in her voice — over such a small act of defiance, such a mundane discomfort endured — broke something in Elara that would never heal properly. Not the grief. That would come later, in waves, for years. This was smaller, and worse. The realization that Mira had been brave about something that didn't matter, the way children are. Brave about the tickle. Not the dying.
+
+"You sneaky little thief," she said, her voice thick with love.
+
+Mira's smile widened, her eyes already losing focus as the sedatives took deeper hold. "Better than being an Archive," she mumbled, the words slurring. "They're gonna take all my memories. But they can't have this one. This one's just for you."
+
+The quarantine pod hummed, adjusting its parameters as Mira's vital signs changed. Her body already surrendering to the chemical cascade that would make extraction possible, would preserve the neural patterns that had been Mira while erasing the child herself.
+
+"Will they know it was mine?" Mira asked suddenly, eyes fixing on the place where Elara's hand pressed the pod against her stomach. "Will it know?"
+
+"Yes," Elara said. She didn't understand the question. She answered it anyway because she was running out of answers and running out of time and the one thing she could still do was say yes to whatever Mira asked. "It will always know it was yours."
+
+"Good," Mira said. Then, with unexpected sharpness: "Don't let them have it. They'll just study it. It'll die in a lab."
+
+"I won't," Elara said. "I promise."
+
+Mira nodded, satisfied. Her eyes drifted, focusing on something beyond the room. The sedatives were taking full effect now, neural pathways already being mapped for the coming procedure.
+
+"I think it'll miss me," she murmured, so softly Elara almost missed it. Not tearful. Not afraid. Just a simple observation, as if she were remarking on weather. As if being missed were enough. As if that were the whole point of having existed — that something, somewhere, would notice you were gone.
+
+Before Elara could respond, the door whispered open behind her. The technicians arriving. Right on schedule, precise in their clinical mercy.
+
+"Standard protocols?" the lead extractionist asked, not meeting her eyes. She had supervised this technician's training. Had stood where he was standing and asked that same question of other parents in other rooms. Had said it in the same tone: gentle, efficient, already past the point where the answer mattered.
+
+Elara moved the pod from her stomach to her pocket. One motion. Fast. The way you'd hide something from a teacher. The way Mira must have hidden it from the Arboretum guide. In a sock, tickling her ankle, biting the inside of her cheek to keep from laughing. Like mother, like daughter. Both thieves. The seed pod sat against her thigh, heavy and warm, and her knuckles whitened around it.
+
+"I'll wait outside," she said, though protocol permitted her to stay.
+
+"We'll notify you when it's complete," the tech said, equipment already humming to life.
+
+Behind the membrane, two assistants were preparing the suspension gel, the thick, blue-tinged medium that would hold Mira's body motionless during the neural mapping. Elara watched them adjust the bed. Watched the gel begin to rise around her daughter's small frame. Watched Mira's hand lift from the pillow, slowly, as the medium reached her chest, and then float — weightless, upturned, fingers slightly curled — in the blue.
+
+A hand that had once reached for hers across a kitchen table. Once colored outside the lines of impossible animals and been proud of it. Once stolen a forbidden seed from a garden and endured the tickle all the way home.
+
+Elara backed toward the door. She did not look at the monitors. She looked at the hand.
+
+Then she turned and walked out.
+
+The corridor was white and long and smelled like nothing. The absence of smell was worse than the ozone-copper of the quarantine pod, because the ozone-copper at least meant her daughter was alive behind the barrier, still capable of calling her a liar and meaning it as love. Out here, the air was just air. The walls were just walls. The hallway lights hummed their steady, indifferent hum. A monitoring drone drifted past, scanned her briefly, cataloged her as non-priority.
+
+The Archives continued functioning with mechanical precision while inside her, systems were shutting down.
+
+Breathing became a problem requiring conscious calculation. Inhale. Count. Exhale. Repeat. She leaned against the corridor wall because her legs had made a decision about how much further they were willing to go, and the decision was: here. Not one step more. Here.
+
+Her fingers found the seed pod in her pocket, clutching it with such force that her nails left crescents in her palm. The pain was distant, belonging to someone else. Everything belonged to someone else now. The competent specialist who had performed thousands of extractions. The mother who had once known what joy tasted like. The woman who had believed in preservation, in continuity, in meaning.
+
+All that remained was this. Trembling hands. Lungs forgetting their purpose. The taste of copper flooding her mouth where she'd bitten through the inside of her cheek without noticing.
+
+She tried to recall Mira's laugh. The specific cadence, the way it started low and rose into something bright. And found instead a terrifying blankness. Not even three minutes since leaving the room, and already the precise sound was slipping, replaced by a generic approximation. Not Mira's laugh. Just a template. A placeholder where the real thing had been.
+
+The seed pod pulsed once against her fingers. Faint. Almost imagined. A dense, concentrated warmth pressing into her palm. Just an object that had mattered to a nine-year-old girl. A stolen treasure that had tickled her ankle and sparked that final, fleeting flash of pride.
+
+It was nothing. It was everything. It was the only thing Elara had managed to save from the clinical machinery that was, right now, on the other side of that door, cataloging her daughter's memories while erasing her daughter.
+
+She pressed her back against the wall and slid down until she was sitting on the corridor floor. The specialist in her noted, distantly, that this was a breach of professional conduct. Archive personnel did not sit on floors. Archive personnel maintained composure. Archive personnel did not clutch stolen biological samples against their chests and rock, slightly, without realizing they were doing it.
+
+The seed pod pulsed again. Warmer now.
+
+Elara didn't know how long she sat there. Long enough for the lights to cycle once through their automated dimming sequence and return to full brightness. Long enough for the taste of blood in her mouth to go from sharp to dull. Long enough for her legs to decide, reluctantly, that they might try walking again.
+
+She stood. Pressed her palm flat against her sternum, where something had cracked and would not uncrack. Wiped her mouth with the back of her hand. The blood on her sleeve looked like nothing. Like a careless gesture during a meal. No one would notice.
+
+She walked. Past the security gate, where the scan registered her departure and logged the anomalous biological signature of the object in her pocket. Past the exit checkpoint, where the system flagged her for review. Past the final door, where the air changed from recycled to real and the wind touched her face and she realized she was outside and Mira was not.
+
+She didn't look back. Not because she was brave. Because if she looked back, she would go back. And if she went back, she would climb into the gel beside her daughter and hold her while the machines took her apart, and the technicians would have to extract them both.
+
+She kept walking.
+
+In her pocket, the seed pod pressed warm against her thigh. A second heartbeat she'd swallowed without meaning to.
+
+Let them flag it.
+
+# Chapter Two: "The Harvester"
 
 Three months after Mira's extraction, Elara returned to work. The Archives welcomed her with the blank politeness reserved for necessary components restored to function. Her absence labeled: "Standard bereavement protocol complete." Her return noted: "Asset reintegration successful."
 The Extraction Chamber gleamed with the same sterile light it always had. Elara adjusted settings with practiced precision, her fingers finding calibration points without conscious thought. Seventeen years of muscle memory. Eight thousand, four hundred and twelve successful extractions. A flawless record.
