@@ -1,6 +1,6 @@
 # Prismatic: Continuity Tracker
 *Living document — update after every chapter draft or revision*
-*Last updated: Chapter 1 retool (final approved version)*
+*Last updated: Chapter 2 retool (final approved version, em-dashes cleaned)*
 
 ---
 
@@ -11,7 +11,8 @@ The single most important physical object in the novel. Its behavior must be rig
 | Chapter | State | Behavior | Notes |
 |---|---|---|---|
 | Ch. 1 | Seed pod | Stolen from Arboretum by Mira. Hidden in sock. Pressed through quarantine transfer slot into Elara's palm. Elara clutches it against her stomach, then transfers to pocket. | "Deep purple-black, surface matte but somehow bottomless." Warmer than it should have been. Pulsed twice against Elara's fingers in the hallway (faint, then warmer). Ends as "a second heartbeat she'd swallowed without meaning to." Security scan logs its anomalous biological signature on exit. |
-| Ch. 2–7 | Seed pod | Carried in Elara's pocket. Occasional warmth/pulsing. | Described as "cold weight" then "warm weight" depending on emotional state. |
+| Ch. 2 | Seed pod | Morning pocket-transfer ritual (yesterday's clothes to today's). Goes warm when Terin's Arboretum memory appears on screen. Flares hot when Varnin mentions Mira. Burns like a brand during/after reality bleed. Transferred to medical preservation case at chapter end. | Pod responds to proximity of Memoria-related memories on extraction screens. Burns hard enough to leave a red pattern on Elara's skin. Case fogs from inside "like breath on a window." Elara sleeps with hand on case lid. Ends with "Let it flag." |
+| Ch. 3–7 | Seed pod (in case) | Carried in preservation case. Occasional warmth/pulsing. | Described as "cold weight" then "warm weight" depending on emotional state. |
 | Ch. 8 | Seed pod | Burns against ribs on approach. Vibrates like tuning fork near ship. Synchronizes with data core and ship (three heartbeats). Post-current: settles to steady hum "like a child sleeping against your chest." | NOT integrated into nav core in this chapter. Still against Elara's skin at chapter end. Phantom warmth = active warmth here. |
 | Ch. 9–10 | Seed crystal | Pulses in navigation core. Resonates with dimensional current. Generates counter-fields. | Vibrations travel through deck plates. Synchronizes with Elara's phantom warmth. |
 | Ch. 11 | Seed crystal | Resonance intensifies at dimensional fold/nexus. Illuminates bridge. Manifests Mira-entity. | Three-point resonance circuit: crystal + Elara's phantom warmth + nexus core. |

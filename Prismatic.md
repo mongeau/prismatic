@@ -135,93 +135,192 @@ Let them flag it.
 # Chapter Two: "The Harvester"
 
 Three months after Mira's extraction, Elara returned to work. The Archives welcomed her with the blank politeness reserved for necessary components restored to function. Her absence labeled: "Standard bereavement protocol complete." Her return noted: "Asset reintegration successful."
+
 The Extraction Chamber gleamed with the same sterile light it always had. Elara adjusted settings with practiced precision, her fingers finding calibration points without conscious thought. Seventeen years of muscle memory. Eight thousand, four hundred and twelve successful extractions. A flawless record.
+
+In her pocket, the seed pod sat against her thigh. She had not put it in a case. Had not reported it. Had not placed it in the quarantine locker where contraband biological specimens were supposed to go. Every morning she transferred it from the pocket of yesterday's clothes to the pocket of today's, and every morning the part of her that was still a specialist noted the violation and said nothing.
+
 Her current subject: a child of seven. Terminal neurological dissolution. The parents already prepped and waiting in the observation room, faces set with the particular blankness of those who had surrendered to protocol.
+
 "Extraction specialist Voss," her assistant acknowledged, handing her the final consent forms. No mention of her own recent loss. No acknowledgment of the symmetry. Just procedure.
+
 "Begin pre-sedation sequence," Elara instructed, her voice modulated to the precise tone that inspired confidence. Not warm. Not cold. Professional mercy.
-The child—a boy named Terin—watched her with heavy-lidded eyes as the first wave of sedatives entered his system. No fear there. The Archives prepared their subjects thoroughly. Explained the preservation process. Emphasized the continuity of memory.
+
+The child, a boy named Terin, watched her with heavy-lidded eyes as the first wave of sedatives entered his system. No fear there. The Archives prepared their subjects thoroughly. Explained the preservation process. Emphasized the continuity of memory.
+
 "The Archives remember," Elara told him, the institutional mantra smooth on her tongue. "So nothing that matters is ever truly lost."
+
 The words tasted like ash.
+
 Terin nodded, already drifting. "Will I dream in the Archives?"
-"The preservation is perfect," Elara said, avoiding the question.
-Her hands moved with practiced efficiency, attaching neural interfaces, calibrating sensitivity thresholds. Her colleagues called her the best—able to extract more intact memory chains than anyone else in the division. Especially from children. She knew how to find the threads that mattered, how to preserve the emotional context that gave memories their weight.
+
+"The preservation is perfect," Elara said, avoiding the question. She had answered it honestly once, for Mira. Had said *yes* because Mira was asking and the truth was not something a nine-year-old needed to carry into sedation. The truth was that the Archives didn't dream. The Archives didn't do anything. The Archives were a shelf.
+
+Her hands moved with practiced efficiency, attaching neural interfaces, calibrating sensitivity thresholds. Her colleagues called her the best: able to extract more intact memory chains than anyone else in the division. Especially from children. She knew how to find the threads that mattered, how to preserve the emotional context that gave memories their weight.
+
 "Primary sequence initiated," she announced, watching the first memory patterns appear on her displays. "Cognitive mapping stable."
-The child's consciousness unfurled on her screens like a flowering of light—neural pathways illuminating in complex patterns as the scanning sequence moved backward through time. Recent memories first, then deeper, then foundational.
+
+The child's consciousness unfurled on her screens like a flowering of light: neural pathways illuminating in complex patterns as the scanning sequence moved backward through time. Recent memories first, then deeper, then foundational.
+
 Elara's hands danced over the controls, tagging priority memories for highest-resolution preservation. A sixth birthday. The day he learned to swim. The night his parents told him about his diagnosis.
+
 One memory contained a visit to the Arboretum. Her fingers hesitated over the tag selector.
-The boy's neural patterns formed temporary connections to the Memoria trees, mappable pathways visible on her monitor. Just children's wonder, most specialists would say. Meaningless neural activity. But she knew better.
-She left it untagged. Let it dissolve.
+
+In her pocket, the seed pod went warm.
+
+On the monitor, Terin's Arboretum memory played in neural shorthand: a boy reaching up to touch purple-black bark. A guide explaining something the boy wasn't listening to. The particular color of filtered light through Memoria foliage. And the boy's hand, small and open, pressing flat against the trunk of a tree that was older than the Archives themselves.
+
+If she preserved this memory at full resolution, someone reviewing Terin's archive would see the Memoria tree patterns. Would cross-reference them. Would find similar signatures in Mira's extraction. Would start asking questions about quantum resonance and biological contraband and the small, warm weight pressing against Elara's thigh right now.
+
+She deselected the memory. Watched the boy's hand on the bark flicker, fragment, and go dark. An afternoon in a garden. The feeling of ancient wood under small fingers. Gone, because a woman with a stolen seed in her pocket couldn't afford for anyone to look too closely.
+
+Her hands did not tremble. She did not allow them to tremble.
+
 Throughout the procedure, she maintained perfect compartmentalization. Never thinking of Mira. Never allowing the symmetry to distract her. Never remembering how it felt to stand on the other side of the barrier while strangers harvested her daughter's mind.
+
 "Extraction complete," she said finally. "Preservation quality optimal."
-The parents would receive their access codes within two days. Would be able to visit their son's memories in designated Archive chambers. Would be assured that he lived on, perfectly preserved.
+
+The parents would receive their access codes within two days. Would be able to visit their son's memories in designated Archive chambers. Would be assured that he lived on, perfectly preserved. Minus one afternoon in a garden, reaching for a tree.
+
 Another lie.
 
 ---
 
 Six days later, Elara stood in a different extraction chamber, preparing for a far more complex procedure.
+
 "Director Varnin is ready," her assistant informed her, voice pitched low with the reverence such rank demanded.
+
 Elara nodded. Director Ivar Varnin. Forty-three years of Archive service. Architect of the modern extraction protocols. And now, dying of the same neural dissolution as the children she specialized in.
+
 "Send him in," she said.
+
 Varnin entered without assistance, though his gait betrayed the advanced state of his condition. Unlike the children, he came to extraction fully conscious. No sedatives. A request granted only to those of his standing.
+
 "Specialist Voss," he acknowledged, his voice still carrying the authority that had shaped Archive policy for decades. "I specifically requested you."
-"Director," she replied with appropriate deference.
-"Your extraction record is unparalleled," he continued, settling himself in the chamber. "Even after your... personal loss."
-The reference to Mira—oblique, professional—sent a tremor through Elara's careful composure. She recalibrated, adjusted, stabilized.
-"The Archives remember," she said, the mantra a shield.
-"Indeed." Varnin's eyes held hers, searching. "And what do you remember, Specialist Voss? After your daughter's extraction? Does the memory feel... complete?"
-Protocol demanded she deflect such questions. Personal experiences had no place in extraction procedures. But something in Varnin's gaze—a knowing, a testing—kept her answering.
+
+"Director." She straightened her spine. Clasped her hands behind her back. Chin level.
+
+"You came back to work quickly," he said. Not a compliment. An observation. He was watching her the way she watched extraction monitors. Reading the data.
+
+"The Archives needed—"
+
+"Don't." He settled himself in the chamber with the careful movements of a man conserving what remained. "I didn't bring you here for the institutional script. I've heard it. I wrote most of it."
+
+Elara said nothing. The seed pod pressed warm against her thigh.
+
+"And what do you remember, Specialist Voss?" His voice had taken on a rhythmic quality, almost hypnotic. "After your daughter's extraction? Does the memory feel... complete?"
+
+Protocol demanded she deflect such questions. Personal experiences had no place in extraction procedures. But something in Varnin’s gaze, a knowing, a testing, kept her answering.
+
 "Memory is never complete," she said carefully. "Only preserved."
+
 A smile crossed Varnin's face. "Precisely why I requested you. You understand the difference."
+
 He lay back as Elara began the standard procedure, attaching neural interfaces with the same precision she always employed. But something felt wrong. Off-center. Varnin watching her with too much awareness. His breathing too controlled.
+
 "Your daughter," he said suddenly as she worked. "Mira. Her extraction was... unusual."
-Elara's fingers faltered on the calibration sequence. "All protocols were followed."
-"Of course. But the content was... remarkable." Varnin's voice had taken on a rhythmic quality, almost hypnotic. "Certain neural patterns we rarely see. Potentialities rather than memories."
-Warning signals flashed in Elara's mind, professional and personal barriers colliding. She should report this conversation. Should recuse herself from the extraction. Should—
+
+Elara's fingers faltered on the calibration sequence. The seed pod flared hot against her thigh. She shifted her weight, angling the pocket away from him. "All protocols were followed."
+
+"Of course. But the content was... remarkable." Varnin's voice kept its rhythmic pull. "Certain neural patterns we rarely see. Potentialities rather than memories."
+
+She should report this conversation. Should recuse herself from the extraction. Should—
+
 "Begin primary sequence," she said instead, voice steady.
-The familiar hum of equipment filled the chamber. Varnin's neural patterns began appearing on her displays—complex, dense with decades of accumulated memory. She guided the extraction with automatic precision, tagging priority sequences, maintaining extraction integrity.
+
+The familiar hum of equipment filled the chamber. Varnin's neural patterns began appearing on her displays: complex, dense with decades of accumulated memory. She guided the extraction with automatic precision, tagging priority sequences, maintaining extraction integrity.
+
 Until Varnin spoke again.
+
 "Do you ever wonder," he murmured as the sedation finally began taking effect, "what else exists beyond extraction? Beyond preservation? What if the Archives are just... one version?"
-His hand moved suddenly, too quickly for his condition, fingers brushing the primary calibration node. A surge registered in the system—power fluctuating, patterns destabilizing.
+
+His hand moved suddenly, too quickly for his condition, fingers brushing the primary calibration node. A surge registered in the system: power fluctuating, patterns destabilizing.
+
 "System irregularity," Elara announced, reaching to correct the imbalance.
+
 She never completed the motion.
+
 The extraction chamber dissolved around her.
 
 ---
 
 Sunlight. Warm on her face. The smell of soil and growing things.
+
 Elara stood in a garden she didn't recognize. Not the sterile Archive grounds. Something wilder, vibrant with life. Memoria trees grew in scattered groves, their purple-black foliage shimmering with captured light.
-Her body felt wrong—moving without her conscious direction, speaking words she hadn't formed.
+
+Her body felt wrong, moving without her conscious direction, speaking words she hadn't formed.
+
 "The quantum variance is still too high," she heard herself saying to someone she couldn't yet see. "The Archives won't authorize another attempt."
+
 "Since when do you care what the Archives authorize?"
-The voice—impossible, unmistakable—froze Elara in mid-step. She turned.
+
+The voice, impossible, unmistakable, froze Elara in mid-step. She turned.
+
 A girl stood among the Memoria trees. Fifteen, maybe sixteen years old. Dark hair cut short around a face Elara would know in any reality, any timeline. Mira. But not Mira as she had been. Mira as she might have become.
-"You're the one who taught me to question them," this impossible Mira continued, fingers tracing patterns on the bark of a Memoria tree. Around her neck hung a pendant Elara had never seen—a small crystalline seed pod, preserved in clear resin.
+
+"You're the one who taught me to question them," this impossible Mira continued, fingers tracing patterns on the bark of a Memoria tree. Around her neck hung a pendant Elara had never seen: a small crystalline seed pod, preserved in clear resin.
+
 "Mira," Elara whispered, but no sound emerged. She was trapped in another consciousness, experiencing without agency.
+
 "I found another path," Mira said, pulling something from her pocket. A thin device Elara didn't recognize. "It's not where we thought. It's when."
-The garden shifted, colors intensifying, then fading. Elara felt a pulling sensation, as if reality itself were thinning around her. Through this membrane, she glimpsed other scenes—fragmented, overlapping.
+
+The garden shifted, colors intensifying, then fading. Elara felt a pulling sensation, as if reality itself were thinning around her. Through this membrane, she glimpsed other scenes, fragmented, overlapping.
+
 Mira in an Archive uniform. Herself, older, standing before a ship unlike any she'd seen. A man she didn't recognize, speaking to her with familiar intimacy. The Memoria seed pod, grown into a tree, its branches forming impossible patterns against an alien sky.
-Eight minutes of fractured reality, bleeding into each other like watercolors on wet paper. Eight minutes of a life that wasn't hers—but could have been.
+
+Eight minutes of fractured reality, bleeding into each other like watercolors on wet paper. Eight minutes of a life that wasn’t hers. But could have been.
+
 Then the garden disappeared, and Elara was back in the extraction chamber, her hand still reaching for the calibration controls.
+
 "System stabilized," her assistant reported, unaware of what had just occurred. "Neural patterns normalizing."
+
 Across from her, Director Varnin lay in extraction suspension, eyes closed, a faint smile on his lips. On the monitors, his neural patterns continued their ordered progression into the Archives.
+
 But something had changed. A line had been crossed. Elara looked down at her hand, still hovering over the controls, and saw it trembling for the first time in her extraction career.
+
 "Director Varnin experienced what we classify as subjunctive memory," she said, her voice surprisingly steady. "A quantum variance event."
+
 Her assistant's expression shifted from professional neutrality to concern. "Those are theoretical. Unconfirmed."
+
 "Log it," Elara insisted. "Subjunctive memory experienced during primary extraction. Possible reality bleed."
+
 "Specialist Voss, that terminology is not in approved protocol."
+
 "Log it," she repeated, a new authority in her voice. "And contact the primary Archives immediately. Director Varnin's extraction contains quantum-unstable elements."
-The assistant hesitated, then moved to comply. As she typed the report, Elara made a small, irreversible decision. The memory of the garden, of Mira grown and alive, of the ship and the man and the alien sky—she kept it to herself. A single shared thread of memory withheld from the Archives' collections.
-Her fingers found the seed pod in her pocket—carried against regulations every day since Mira's extraction. It felt warmer now, a subtle weight pressing against her palm in a rhythm she could almost mistake for a pulse.
+
+The assistant hesitated, then moved to comply. As she typed the report, Elara made a small, irreversible decision. The memory of the garden, of Mira grown and alive, of the ship and the man and the alien sky. She kept it to herself. A single shared thread of memory withheld from the Archives' collections.
+
+Her fingers found the seed pod in her pocket, carried against regulations every day since Mira's extraction. It was burning now. Not the gentle warmth of the past three months. Something urgent, almost painful, pressing against her thigh hard enough to feel like a brand.
+
 When the assistant moved to enter the final system irregularity, Elara turned away.
+
 "Specialist Voss, I need your verification on the anomaly report."
+
 "File it without verification," Elara said, moving toward the door. "I'm taking personal leave."
+
 "But protocol requires—"
+
 "Protocol is incomplete." Elara didn't look back. "So is memory."
-She walked out of the extraction chamber, away from the machinery of preservation, the seed pod warming against her palm with each step. The Archives would flag her absence. Would note the protocol violation. Would eventually come looking.
+
+She walked out of the extraction chamber, away from the machinery of preservation, the seed pod searing against her leg with each step. The Archives would flag her absence. Would note the protocol violation. Would eventually come looking.
+
 She didn't care.
-For the first time since Mira's extraction, she felt something break through the anesthetic fog of professional detachment. Not hope—something sharper, more dangerous. A splinter of possibility lodged beneath the skin of certainty.
+
+For the first time since Mira's extraction, she felt something break through the anesthetic fog of professional detachment. Not hope. Something sharper, more dangerous. A splinter of possibility lodged beneath the skin of certainty.
+
 The seed pod pulsed once, definitive, as she cleared the final security gate. Behind her, the system registered the unverified procedure, the unauthorized leave of absence. Alerts cascaded through monitoring channels.
-Elara kept walking. Let it flag.
+
+At her quarters, she locked the door and pulled the pod from her pocket. Her skin beneath was red. A faint pattern where the pod's surface texture had pressed into her flesh, as though the heat had been trying to write something she couldn't read.
+
+She couldn't carry it bare anymore. Not burning through her clothes during extractions, responding to other children's memories on the screen, threatening to betray her every time she stood in a chamber doing the work that hid her.
+
+In her salvage kit, she found a small medical preservation case. Archive-standard. Designed for biological samples in transit. She placed the pod inside and sealed it. The latch clicked with the sound of a cell door. She almost opened it again.
+
+The case was cold in her hands. Clinical. The pod's warmth still faintly visible through the transparent lid, fogging the glass from inside in a slow, rhythmic pulse. Like breath on a window.
+
+She set the case on her sleeping platform, beside the pillow. Lay down next to it, curled on her side, one hand resting on the lid the way she used to rest her hand on Mira's back to feel the breathing. To confirm the breathing.
+
+Let it flag.
 
 ## Chapter Three: "The Diver"
 
