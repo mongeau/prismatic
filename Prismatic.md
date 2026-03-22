@@ -1,8 +1,8 @@
 # Part 1: Convergence (The Catalyst)
 
-## Chapter One: "The Seed"
+# Chapter One: "The Seed"
 
-The quarantine pod's membrane was supposed to be sterile, engineered to be forgotten by the senses. Elara could smell it anyway: a faint ozone-copper that would forever mean dying child.
+The quarantine pod's membrane was supposed to be sterile—engineered to be forgotten by the senses. Elara could smell it anyway: a faint ozone-copper that would forever mean dying child.
 
 Inside, behind the transparent barrier, Mira lay propped against her pillow in the quarantine bed. Nine years old. Her body betraying itself, the disease turning her bones to wet chalk. The monitoring equipment traced its quiet verdict across the displays: heart rate, neural density, bone calcium. Each number a little lower than the last, and the machines not polite enough to round up.
 
@@ -10,17 +10,15 @@ Inside, behind the transparent barrier, Mira lay propped against her pillow in t
 
 "Doing what, starlight?"
 
-"That thing with your face. When you're trying not to look scared." Mira's fingers trembled against the membrane between them. The barrier was warm on Elara's side. Cold on Mira's. That was the design. Keep the visitor comfortable. "I'm the one who's supposed to be scared."
+"That thing with your face. When you're trying not to look scared." Mira's fingers trembled against the membrane between them. "I'm the one who's supposed to be scared."
 
 Elara tried to smile. Failed. Tried again. "I'm not scared."
 
 "Liar," Mira whispered, the ghost of her old self flickering through. "Big fat Archive liar."
 
-The unexpected jab made Elara laugh, a broken sound she immediately tried to swallow. Mira caught it though, her eyes brightening with something the monitors couldn't measure and the extraction wouldn't preserve.
+The unexpected jab made Elara laugh—a broken sound she immediately tried to swallow. Mira caught it though, her eyes brightening.
 
 "Made you laugh," she said. A victory.
-
-Elara pressed her palm flat against the membrane. Mira's fingers found the same spot from the other side. They couldn't feel each other. That was also the design.
 
 "The technicians will be here soon," Elara said, avoiding the word extraction. Avoiding the finality of what would happen in this room. "Did you decide which memories you want prioritized?"
 
@@ -98,6 +96,8 @@ Elara backed toward the door. She did not look at the monitors. She looked at th
 
 Then she turned and walked out.
 
+In the corridor, she pressed her back against the closed door. Something fractured inside her chest—not metaphorically, but with such physical certainty that she placed her palm flat against her sternum, expecting to find blood seeping through the Archive uniform. Nothing there. Just the impossible physics of grief—mass without matter, gravity without substance, a black hole compressed behind her ribs that consumed everything and gave nothing back.
+
 The corridor was white and long and smelled like nothing. The absence of smell was worse than the ozone-copper of the quarantine pod, because the ozone-copper at least meant her daughter was alive behind the barrier, still capable of calling her a liar and meaning it as love. Out here, the air was just air. The walls were just walls. The hallway lights hummed their steady, indifferent hum. A monitoring drone drifted past, scanned her briefly, cataloged her as non-priority.
 
 The Archives continued functioning with mechanical precision while inside her, systems were shutting down.
@@ -112,7 +112,7 @@ She tried to recall Mira's laugh. The specific cadence, the way it started low a
 
 The seed pod pulsed once against her fingers. Faint. Almost imagined. A dense, concentrated warmth pressing into her palm. Just an object that had mattered to a nine-year-old girl. A stolen treasure that had tickled her ankle and sparked that final, fleeting flash of pride.
 
-It was nothing. It was everything. It was the only thing Elara had managed to save from the clinical machinery that was, right now, on the other side of that door, cataloging her daughter's memories while erasing her daughter.
+It was nothing. It was everything. It was the only thing Elara had managed to save from the clinical machinery that was, right now, on the other side of that door, cataloging her daughter's memories while erasing her daughter. Perfectly preserved. Perfectly lost.
 
 She pressed her back against the wall and slid down until she was sitting on the corridor floor. The specialist in her noted, distantly, that this was a breach of professional conduct. Archive personnel did not sit on floors. Archive personnel maintained composure. Archive personnel did not clutch stolen biological samples against their chests and rock, slightly, without realizing they were doing it.
 

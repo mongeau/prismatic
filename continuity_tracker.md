@@ -1,6 +1,6 @@
 # Prismatic: Continuity Tracker
 *Living document — update after every chapter draft or revision*
-*Last updated: Part 2, Chapter 12 ("The Summons")*
+*Last updated: Chapter 1 retool (final approved version)*
 
 ---
 
@@ -10,7 +10,7 @@ The single most important physical object in the novel. Its behavior must be rig
 
 | Chapter | State | Behavior | Notes |
 |---|---|---|---|
-| Ch. 1 | Seed pod | Stolen from Arboretum by Mira. Hidden in sock. Pressed through quarantine transfer slot. | "Deep purple-black, surface matte but somehow bottomless." Pulsed once against Elara's fingers in the hallway. |
+| Ch. 1 | Seed pod | Stolen from Arboretum by Mira. Hidden in sock. Pressed through quarantine transfer slot into Elara's palm. Elara clutches it against her stomach, then transfers to pocket. | "Deep purple-black, surface matte but somehow bottomless." Warmer than it should have been. Pulsed twice against Elara's fingers in the hallway (faint, then warmer). Ends as "a second heartbeat she'd swallowed without meaning to." Security scan logs its anomalous biological signature on exit. |
 | Ch. 2–7 | Seed pod | Carried in Elara's pocket. Occasional warmth/pulsing. | Described as "cold weight" then "warm weight" depending on emotional state. |
 | Ch. 8 | Seed pod | Burns against ribs on approach. Vibrates like tuning fork near ship. Synchronizes with data core and ship (three heartbeats). Post-current: settles to steady hum "like a child sleeping against your chest." | NOT integrated into nav core in this chapter. Still against Elara's skin at chapter end. Phantom warmth = active warmth here. |
 | Ch. 9–10 | Seed crystal | Pulses in navigation core. Resonates with dimensional current. Generates counter-fields. | Vibrations travel through deck plates. Synchronizes with Elara's phantom warmth. |
@@ -66,11 +66,12 @@ The single most important physical object in the novel. Its behavior must be rig
 ## CHARACTER CONTINUITY
 
 ### Elara Voss
-- **Established backstory:** 17 years at the Archives. 8,412 successful extractions. Performed Mira's extraction herself (indirectly — she left the room but set the protocol).
-- **The lie she lives by:** "The Archives preserve." She knows it's false. She said it to Terin (Ch. 2) and it "tasted like ash."
+- **Established backstory:** 17 years at the Archives. 8,412 successful extractions. Supervised the lead extractionist's training. Left the room before Mira's extraction but set the protocol.
+- **The lie she lives by:** "The Archives preserve." She knows it's false. She said it to Terin (Ch. 2) and it "tasted like ash." She corrects Mira with it in Ch. 1 ("We preserve") — automatic, hollow.
 - **What she cannot say aloud:** "I watched them take you apart." (Ch. 12 — she chokes on it.)
 - **What only she and Mira know:** The night before extraction, she cried in the sanitation chamber with the water running. Mira knew. (Ch. 12 — this is the proof of authenticity.)
-- **Physical tells:** Hands tremble when emotion breaks through. Presses palm flat against sternum when grief peaks (Ch. 1 — established).
+- **Physical tells:** Hands tremble when emotion breaks through. Presses palm flat against sternum when grief peaks (Ch. 1 — established). Bites through the inside of her cheek without noticing (Ch. 1). Slides down walls when legs give out (Ch. 1). Nails leave crescents in her palm from gripping the pod (Ch. 1).
+- **The first feral act:** Pocketing the seed pod. Not a decision — a biological reflex "older than training, older than the Archives, older than language." (Ch. 1)
 
 ### Cassius Reed
 - **The buried wound:** Nari. Left behind on the Sontaris Platform when shuttles reached capacity. Told her he'd find another way. Didn't go back. Six years of constructed identity built on this lie. (Ch. 12 — first revealed)
