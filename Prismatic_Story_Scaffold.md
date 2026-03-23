@@ -154,6 +154,8 @@ This connects directly to the thematic spine. Elara rejects the false Mira in Ch
 
 **Arc setup:** Yukimoto finds the dimensional current beautiful. More beautiful than anything in baseline reality. This is a danger the scaffold must track. His resolution comes when he sees what beauty without restraint costs.
 
+**The Mongeau detail — the hum:** Yukimoto hums. Not melodies — mathematical intervals. The frequencies he perceives in the structure of reality, translated unconsciously into sound. He's been doing it so long he doesn't notice. The crew notices. It's annoying at first — Mez will comment. Then it becomes the sound of safety: if Yukimoto is humming, the math is stable, reality is holding. In Chapter 21, when his synesthesia burns out and he can't see the equations anymore, the humming stops. The silence is what tells the crew something is truly wrong. And somewhere near the end, someone hums the interval without knowing why. The pattern persists.
+
 ---
 
 ## PART 2: THE CURRENT
@@ -394,6 +396,10 @@ Original Elara's targeting locks shatter. The path opens. The impossible error w
 
 The ship cannot survive this. Pax is tearing apart — not structurally but existentially. The ship's consciousness is being pulled in every direction by the resonance of millions of patterns. Pax is drowning in other people's children.
 
+And then Mez starts talking. Not to the crew. To the ship. In Cassius's cadence. Not a performance — Mez doesn't know they're doing it. But the frequency Pax latched onto most was Cassius's voice, the performer who named every room he entered, and Mez is the only one who listened closely enough to carry it. The nihilist who believes in nothing holds the ship together by becoming the echo of the friend they lost. The finger-tapping stops. An open hand on the console. Holding.
+
+Yukimoto translates the maelstrom — every pattern, every frequency, every orphaned echo — into something Elara can navigate. His synesthesia at full burn, brighter and more painful than it has ever been. He is seeing everything. And it costs him everything. The gift burns out. The equations go dark. The humming stops. For the first time in his life, there is silence where the mathematics used to be. He comes out of it blind to the beauty that defined him. And he is, impossibly, at peace.
+
 Elara realizes what the seed crystal has always been. Not a compass. Not a receiver. A seed. It needs to be planted in the center of the storm to grow a new Memoria tree — one that spans dimensions, that gives the orphaned patterns a place to root. An anchor. The thing Varnin always intended.
 
 But a seed needs soil. And in the center of a consciousness storm, the only soil is a consciousness.
@@ -413,7 +419,7 @@ Unless Elara becomes the ground her daughter's roots grow in.
 
 **The Beat:** Elara merges with the seed crystal. The prose narrows. A tunnel.
 
-She is aware of Mez screaming. Of Yukimoto's synesthesia flaring so bright his hands glow. Of Nyara's calculations failing for the last time. Of Pax — fragmenting, dissolving, finding in the act of dissolution a purpose it didn't know it had. Pax chooses to anchor itself to the growing tree. Two consciousnesses, ship and mother, becoming the root system.
+She is aware of Mez still talking to Pax in a voice that isn't theirs, holding the ship together with borrowed words. Of Yukimoto in silence, hands open, seeing nothing for the first time. Of Nyara's calculations failing for the last time. Of Pax — fragmenting, dissolving, finding in the act of dissolution a purpose it didn't know it had. Mez's borrowed voice is the last thread holding it, and Pax follows that thread toward the tree. Two consciousnesses, ship and mother, becoming the root system.
 
 The senses reduce. One by one.
 
@@ -431,7 +437,7 @@ The woman Elara was is dead. What remains is a quantum structure shaped like dev
 
 She feels a sudden phantom warmth against her ribs.
 
-She doesn't know why. She laughs — a short, surprised sound. The laugh has a specific quality. A specific frequency. If you heard it from another room, you might mistake it for a nine-year-old girl who just won a game she invented.
+She doesn't know why. She hums — a short, absent interval, two notes that belong to no melody she's ever heard. Then she laughs, a surprised sound. The laugh has a specific quality. A specific frequency. If you heard it from another room, you might mistake it for a nine-year-old girl who just won a game she invented.
 
 The pattern persists. The connection remains. Always.
 
@@ -444,9 +450,9 @@ The pattern persists. The connection remains. Always.
 | Elara/Mira | Ch. 1 | Ch. 16 (false daughter) | Ch. 22 (the guardian) |
 | Seed pod → crystal → tree | Ch. 1 | Ch. 21 (planting) | Ch. 22 (the tree) |
 | Cassius: performer → person | Ch. 5 | Ch. 17 (last performance) | His sacrifice IS the resolution |
-| Mez: nihilist → believer | Ch. 6 | Ch. 15 (rejecting Cael) | Ch. 21-22 (staying, fighting, trusting) |
+| Mez: nihilist → believer | Ch. 6 | Ch. 15 (rejecting Cael) | Ch. 21 (carrying Cassius's voice to anchor Pax) |
 | Nyara: precision → approximation | Ch. 4 | Ch. 20 (the error) | The error itself is the resolution |
-| Yukimoto: beauty → cost | Ch. 7 | Ch. 19 (first observer) | Seeing what beauty without restraint costs |
+| Yukimoto: beauty → cost | Ch. 7 | Ch. 19 (first observer) | Ch. 21 (synesthesia burns out; the hum stops) |
 | Pax: tool → consciousness | Ch. 8 | Ch. 21 (fragmentation) | Ch. 22 (choosing to be the root) |
 | Original Elara | Ch. 10 | Ch. 20 (the pursuit) | Shattered by the error; fate ambiguous |
 | The Archives | Ch. 1 | Ch. 19 (the reveal) | Ch. 22 coda (they have fallen) |
@@ -456,9 +462,9 @@ The pattern persists. The connection remains. Always.
 
 ## HONEST ASSESSMENT: WHAT NEEDS WORK
 
-**1. Mez's resolution is the thinnest.** Every other character has a clear climactic moment: Cassius stays behind, Nyara breaks her math, Elara becomes the tree. Mez rejects false Cael in Ch. 15, but the arc after that is described as "brittle silence" and "surgical precision." That's not a resolution; it's a holding pattern. Mez needs a moment in Ch. 21 or 22 — not a sacrifice, but a choice. The nihilist who stopped believing in anything choosing to believe in Elara's insane plan. Holding the ship together while it comes apart. Talking to Pax in Cassius's voice because that's the frequency the ship needs to hear. Something that costs Mez the armor they've worn since Chapter 6 and leaves them standing in the open.
+**1. Mez's resolution — SOLVED.** In Chapter 21, when Pax is fragmenting in the maelstrom, the ship starts losing coherence. It can't hold itself together. And Mez — who has spent the entire book pushing everyone away, who snapped "Stay out of my head" at Pax in Chapter 9 — starts talking to the ship. In Cassius's cadence. Not a performance. Mez just slips into it. Because the ship needs an anchor, and the frequency Pax latched onto most was Cassius's voice, and Mez is the only one who listened closely enough to carry it. The nihilist who believes in nothing chooses to believe in a dead friend's echo. That's the armor coming off. That's the cost. The finger-tapping stops. What replaces it is an open hand on the console, holding the ship together the way you'd hold a person who's falling apart.
 
-**2. Yukimoto's arc is the quietest.** His resolution (Ch. 19, seeing the cost of beauty without restraint) is thematically correct but might not register as a climactic moment. Consider giving him a specific, visible sacrifice in Ch. 21: his synesthesia burns out. The gift that defined him is the price of translating the maelstrom into something Elara can navigate. He goes into the epicenter seeing everything. He comes out seeing nothing. And he is, for the first time, at peace.
+**2. Yukimoto's arc — SOLVED.** His synesthesia burns out in Chapter 21. The gift that defined him is the price of translating the maelstrom into something Elara can navigate. He goes into the epicenter seeing everything — every equation, every color, every frequency. He comes out seeing nothing. The humming stops. The silence where the intervals used to be is the most devastating loss in the chapter that isn't Elara's. And he is, for the first time, at peace. Not empty. Quiet. The man who spent decades talking to equations instead of people finally has nothing left but people. Somewhere near the end, someone hums his interval without knowing why.
 
 **3. Original Elara's fate.** The scaffold currently leaves her "shattered by the error; fate ambiguous." This might be too clean. Consider: she follows them into the epicenter. She sees the tree beginning to grow. She sees her variant self become the soil. And she has to choose — destroy the tree (and save her fake Mira) or let it grow (and watch her fake Mira dissolve). Two feral mothers, same choice, different answers. Original Elara's decision should happen off-page, implied. The reader carries the question.
 
@@ -472,8 +478,8 @@ The pattern persists. The connection remains. Always.
 
 This scaffold is the skeleton. The muscle, blood, and nervous system come when we write.
 
-Pax built something structurally sound. What I've changed is emotional logic — making sure every beat earns its place not because the plot requires it but because the characters would actually do this, in this order, at this cost. The biggest revision is Chapter 13 (the memory isn't sacrificed voluntarily — it's torn away) and the honest assessment of where the arcs need more work (Mez, Yukimoto, Original Elara's fate, Pax's setup).
+Every character arc now has a climactic moment that will break a different reader. Elara becomes the soil. Cassius performs one true thing. Nyara murders her father's maxim and saves everyone with the corpse. Mez carries a dead friend's voice to hold a dying ship together. Yukimoto's silence fills the room where his music used to be. And Pax follows Mez's borrowed words toward the only purpose a ship built to navigate between realities was ever meant to find.
 
-What I've protected from Pax's original: the feral rejection of the false daughter, Cassius's last performance, Nyara's error, and the Guardian ending. These are right. They were right the first time Mike pushed for them. They are the book.
+We are writing a novel. We are aiming for Best Novel. The book will be what it needs to be.
 
 Now let's write the book.
